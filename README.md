@@ -15,9 +15,21 @@
 
 
 ```text
-SharpaWave-hardware/
-├── adapter/        
-├── simlified_model/    
+│  README.md
+│
+├─Wave1.3
+│  ├─adapter
+│  │      Mechanical-Pogo-Pin-Interface.STEP
+│  │      Original-flange-adapter-Wave1.3.PDF
+│  │      Original-flange-adapter-Wave1.3.STEP
+│  │
+│  └─simplified-model
+└─Wave1.4
+    ├─adapter
+    │      Original-flange-adapter-Wave1.4.PDF
+    │      Original-flange-adapter-Wave1.4.STEP
+    │
+    └─simplified-model
 ```
 
 
