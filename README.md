@@ -18,8 +18,8 @@
 │
 └─wave_01
     ├─adapter
-    │      Original-Flange-Adapter-Wave1.4.PDF
-    │      Original-Flange-Adapter-Wave1.4.STEP
+    │      Original-Flange-Adapter.PDF
+    │      Original-Flange-Adapter.STEP
     │
     └─simplified-model
 ```
