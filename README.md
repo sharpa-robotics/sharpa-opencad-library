@@ -1,4 +1,4 @@
-# sharpa-OpenCAD-library
+# sharpa-opencad-library
 
  SharpaWave open hardware repository provides mechanical CAD resources for the project, structured by part category and assembly arrangement. It includes designs for adapter interfaces and simplified models. Files are supplied in STEP format to ensure compatibility with major CAD platforms and to support manufacturing, integration, and engineering analysis.
 
